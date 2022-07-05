@@ -1,4 +1,4 @@
-# Online-Unix-Linux-Sistem-Programlama-Kursu---22-Ekim-2022
+# Online Unix/Linux Sistem Programlama Kursu - 22 Ekim 2022
 
 
 + Kurs [`C ve Sistem Programcıları Derneği`](http://www.csystem.org/) tarafından `"Sistem Bilgisayar"` işbirliği ile düzenlenmektedir.
