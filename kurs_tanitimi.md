@@ -23,7 +23,7 @@
 Bu kursa katılabilmeniz için yeterli düzeyde `C Programlama Dili` bilgisine sahip olmanız gerekmektedir. 
 
 ## Format
-+ `UNIX/Linux Sistem Programlama` online olarak gerçek zamanlı verilmektedir. `Udemy, Pluralsight` ve benzeri sitelerdeki eğitimlerle karıştırılmamalıdır. Derslerin izlenmesi için [Zoom](https://zoom.us/) yazılımı kullanılmaktadır. Ders sırasında öğrenciler eğitmene soru sorabilirler.
++ `UNIX/Linux Sistem Programlama` online olarak gerçek zamanlı verilmektedir. Derslerin izlenmesi için [Zoom](https://zoom.us/) yazılımı kullanılmaktadır. Ders sırasında öğrenciler eğitmene soru sorabilirler.
 
 + Program boyunca öğrencilere belirli aralıklarla ödevler verilmekte ve öğrencilerin yaptığı ödevler için öğrencilere geri besleme yapılmaktadır.
 
