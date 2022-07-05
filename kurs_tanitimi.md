@@ -48,7 +48,7 @@ Programın toplam ücreti `KDV dahil 6.600 TL`‘dir. Öğrencilere `(öğrencil
 Kurs `C ve Sistem Programcıları Derneği` başkanı `Kaan ASLAN` tarafından verilmektedir. `Kaan ASLAN` sistem programlama ve yazılım eğitiminde Türkiye’deki en deneyimli eğitmenlerindendir. Çeşitli pozisyonlarda pek çok projede bulunmuş, `200`’ün üzerinde kuruma eğitim ve danışmanlık hizmetleri vermiştir. 
 
 ## Kursa Kayıt
-[Katılım için önce ön kayıt yaptırmalısınız](https://zoom.us/meeting/register/v5Qld--oqD0rVJfrvoJARlKBjXL6DywZAQ). Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız. **Kursa kayıtta kullandığınız e-posta adresiniz ile `Zoom`'da kayıtlı e-posta adresinizin aynı olması gerekmektedir**. Kursa kesin kaydınız için sizinle iletişime geçeceğiz.
+[Katılım için önce ön kayıt yaptırmalısınız](https://us02web.zoom.us/meeting/register/tZAvc-mhqjkvEtGivV6wuihR2UHVrUvU2dUb). Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız. **Kursa kayıtta kullandığınız e-posta adresiniz ile `Zoom`'da kayıtlı e-posta adresinizin aynı olması gerekmektedir**. Kursa kesin kaydınız için sizinle iletişime geçeceğiz.
 
 ## Sık Sorulan Sorular
 `Online-Unix-Linux-Sistem-Programlama-Kursu` hakkında sormak istediğiniz soruların bir kısmının yanıtlarını [sık sorulan sorular](https://github.com/CSD-1993/Online-Unix-Linux-Sistem-Programlama-Kursu/blob/master/sss.md) sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan [C ve Sistem Programcıları Derneği ile iletişime geçebilir](http://www.csystem.org/) ya da `Kaan Aslan`'a bir [e-posta mesajı gönderebilirsiniz](mailto:aslank@csystem.org)
