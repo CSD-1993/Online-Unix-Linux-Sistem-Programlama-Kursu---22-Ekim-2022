@@ -1,4 +1,4 @@
-# Online UNIX/Linux Sistem Programlama Kurs İçeriği
+# Online UNIX/Linux Sistem Programlama Kurs İçeriği(220 Saat)
 
 ## Temel Kavramlar 
 
