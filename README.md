@@ -5,7 +5,8 @@
 + Kursun `22 Ekim 2022` tarihinde başlayacaktır.
 + Kurs eğitmeni `Kaan Aslan`'dır.
 + Kurs gerçek zamanlıdır.
-+ Toplam kurs süresi `220` saattir. Dersler `Cumartesi ve Pazar` günleri `10:00 - 14:00` saatleri arasında yapılacaktır.
++ Toplam kurs süresi `220` saattir. 
++ Dersler `Cumartesi ve Pazar` günleri `10:00 - 14:00` saatleri arasında yapılacaktır.
 + Kursun toplam ücreti `KDV dahil 6600 TL`‘dir. Öğrencilere (öğrencilik durumunu belgelemeleri kaydıyla) `5900 TL` 'dir. Katılımcılar kurs ücretini dilerlerse `2 taksitte` ödeyebilirler.
 
 ## Kursla ilgili bağlantılar
