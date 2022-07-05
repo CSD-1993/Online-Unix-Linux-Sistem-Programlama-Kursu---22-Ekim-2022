@@ -41,7 +41,7 @@ Eğitim Süresi `220` Saattir.
 Dersler hafta içi `Cumartesi – Pazar` günleri saat `10.00 – 14.00` saatleri arasında `4`’er saat olarak yapılacaktır.
 
 ## Kurs Ücreti
-Programın toplam ücreti `KDV dahil 6.600 TL`‘dir. Öğrencilere `(öğrencilik durumunu belgelemeleri kaydıyla)`KDV dahil 5.900 TL` 'dir. Katılımcılar kurs ücretini dilerlerse `2` taksitte ödeyebilirler.
+Programın toplam ücreti `KDV dahil 6.600 TL`‘dir. Öğrencilere `(öğrencilik durumunu belgelemeleri kaydıyla)`5.900 TL`‘dir. Katılımcılar kurs ücretini dilerlerse `2` taksitte ödeyebilirler.
 
 ## Eğitmen
 
